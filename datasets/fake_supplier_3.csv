@@ -1,3 +1,7 @@
 id,name,status,address
-1,"3M","draft","12 rue de la pelote"
-2,"Dell France","val","5 avenue des capitaines"
+1,3M,draft,12 rue de la pelote
+2,Dell France,val,5 avenue des capitaines
+3,Dell USA,val,12 rue de la pelote
+4,Samsung,draft,5 avenue des capitaines
+5,IKEA,val,12 rue de la pelote
+6,Point P,val,12 rue de la pelote
