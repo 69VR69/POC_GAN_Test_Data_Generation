@@ -133,3 +133,4 @@ Desktop.ini
 # VenvS
 .venv/
 IvaEnv/
+*.pt
